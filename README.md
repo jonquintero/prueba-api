@@ -26,6 +26,7 @@ directorio <b>resources/js/components</b> se encuentran los componentes Vue.js u
 <p>- cd jonathan-quintero.</p>
 <p>-Copiar el archivo de entorno cp .env.example .env.</p>
 <p>-Ejecute composer install desde la consola</p>
+<p>-Ejecute el siguiente comando php artisan key:generate</p>
 <p>-Ejecute el comando npm install</p>
 <p>-Para compilar los archivos ejecute npm run watch</p>
 <p>-Si va ejecutar de forma local use el comando php artisan serve luego puede acceder al navegador mediante esta URL http://127.0.0.1:8000 o http://localhost:8000</p>
